@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p genqreg Generalized Quantile Regression (GQR) Use genqreg With STATA 19
